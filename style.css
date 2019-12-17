@@ -43,8 +43,12 @@ header p:last-child {
   font-size: medium;
 }
 
+.bold-text{
+  font-weight: bold;
+}
+
 .main {
-  width: 760px;
+  width: 95%;
   margin: 0 auto;
   background-color: #fff;
   position: relative!important;
