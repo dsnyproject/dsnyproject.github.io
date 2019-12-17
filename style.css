@@ -43,12 +43,8 @@ header p:last-child {
   font-size: medium;
 }
 
-.bold-text{
-  font-weight: bold;
-}
-
 .main {
-  width: 95%;
+  width: 1080px;
   margin: 0 auto;
   background-color: #fff;
   position: relative!important;
@@ -92,7 +88,7 @@ header p:last-child {
 }
 
 .right {
-  width: 520px;
+  width: 800px;
   padding: 10px;
 }
 
