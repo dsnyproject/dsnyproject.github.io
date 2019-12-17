@@ -17,12 +17,30 @@ header {
   padding: 20px;
 }
 
+
+
+h2{
+  background-color: #538253;
+  color: #fff;
+  padding: 5px 10px;
+}
+
 header p {
   margin: 0px;
 }
 
 header p:last-child {
   color: #BE3F48;
+}
+
+.header-by{
+  text-transform: none;
+  font-size: medium;
+}
+
+.header-name{
+  text-transform: none;
+  font-size: medium;
 }
 
 .main {
@@ -78,29 +96,7 @@ header p:last-child {
   margin-bottom: 40px;
 }
 
-#h1 {
-  background-color: #497493;
-  color: #fff;
-  padding: 5px 10px;
-}
 
-#h2 {
-  background-color: #B84A4A;
-  color: #fff;
-  padding: 5px 10px;
-}
-
-#h3 {
-  background-color: #538253;
-  color: #fff;
-  padding: 5px 10px;
-}
-
-#h4 {
-  background-color: orangered;
-  color: #fff;
-  padding: 5px 10px;
-}
 
 footer {
   clear: both;
