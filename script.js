@@ -145,3 +145,7 @@ $(document).ready(function() {
   }); // left menu link12 click() scroll END
 
 }); // ready() END
+
+
+
+
