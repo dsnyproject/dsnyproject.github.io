@@ -1,3 +1,5 @@
+
+
 *:before,
 *:after {
   box-sizing: border-box;
@@ -7,6 +9,7 @@ body {
   background-color:#094D35;
   color: #444;
   font-family: arial;
+  
 }
 
 header {
@@ -23,6 +26,10 @@ h2{
   background-color: #538253;
   color: #fff;
   padding: 5px 10px;
+}
+
+h3, h4{
+  font-weight: bold;
 }
 
 header p {
@@ -96,6 +103,9 @@ header p:last-child {
   margin-bottom: 40px;
 }
 
+.bold-text{
+  font-weight: bold;
+}
 
 
 footer {
